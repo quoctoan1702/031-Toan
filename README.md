@@ -2,6 +2,8 @@
 
 # Welcome to my Github Profile
 
+[Hình ảnh](D:\Toan.JPG)
+
 ## Họ Tên: Nguyễn Quốc Toàn
 ## Năm Sinh: 1996
 ## Quê quán: Vĩnh Long
