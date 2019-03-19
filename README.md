@@ -2,7 +2,7 @@
 
 # Welcome to my Github Profile
 
-![Hình ảnh](D:\Toan.JPG)
+![Hình ảnh](https://f32-org-zp.zdn.vn/79d2e38b5c7eb620ef6f.jpg)
 
 ## Họ Tên: Nguyễn Quốc Toàn
 ## Năm Sinh: 1996
@@ -17,28 +17,4 @@
 ## [Facebook cá nhân](https://facebook.com/quoctoan1702)
 
 ## [Twitter](https://twitter.com/quoctoan1702)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://drive.google.com/drive/folders/1l57S-A6stz_ol3mM_-ZZc5W4EJfIno0r) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
