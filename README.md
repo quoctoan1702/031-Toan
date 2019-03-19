@@ -1,7 +1,12 @@
-## Welcome to my Github Profile
+# Welcome to my Github Profile
 
-# Họ Tên: Nguyễn Quốc Toàn
-# Năm Sinh: 1996
+## Họ Tên: Nguyễn Quốc Toàn
+## Năm Sinh: 1996
+## Quê quán: Vĩnh Long
+## Trình độ: Đại học công nghệ  thông tin
+## Học tại: Trường đại học Cửu Long
+## Sở thích: Travelling, Street Workout, Hilking Trip
+## 
 
 ### Markdown
 
