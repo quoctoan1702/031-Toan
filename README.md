@@ -12,7 +12,7 @@
 ## Sở thích: Travelling, Street Workout, Hiking Trip
 
 
-## Liên kết:[Dự án cá nhân](https://github.com/quoctoan1702/quoctoan1702)
+## Liên kết:[Dự án cá nhân](https://github.com/quoctoan1702/031-Toan)
 
 ## [Facebook cá nhân](https://facebook.com/quoctoan1702)
 
