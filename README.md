@@ -9,7 +9,7 @@
 ## Quê quán: Vĩnh Long
 ## Trình độ: Đại học công nghệ  thông tin
 ## Học tại: Trường đại học Cửu Long
-## Sở thích: Travelling, Street Workout, Hilking Trip
+## Sở thích: Travelling, Street Workout, Hiking Trip
 
 
 ## Liên kết:[Dự án cá nhân](https://github.com/quoctoan1702/quoctoan1702)
